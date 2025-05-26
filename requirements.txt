@@ -5,3 +5,6 @@ openai
 python-docx
 pandas
 aiofiles
+PyMuPDF
+pytesseract
+pillow
