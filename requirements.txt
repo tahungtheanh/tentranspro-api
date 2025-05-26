@@ -1,10 +1,4 @@
 fastapi
 uvicorn
-python-multipart
-openai
-python-docx
-pandas
 aiofiles
-PyMuPDF
-pytesseract
-pillow
+python-multipart
